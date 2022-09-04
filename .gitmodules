@@ -1,0 +1,15 @@
+[submodule "mathematical-modeling"]
+	path = mathematical-modeling
+	url = https://github.com/suai-materials/mathematical-modeling.git
+[submodule "introduction"]
+	path = introduction
+	url = https://github.com/suai-materials/introduction.git
+[submodule "database_security"]
+	path = database_security
+	url = https://github.com/suai-materials/database_security.git
+[submodule "management"]
+	path = management
+	url = https://github.com/suai-materials/management.git
+[submodule "csharp"]
+	path = csharp
+	url = https://github.com/suai-materials/csharp.git
