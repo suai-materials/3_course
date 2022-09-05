@@ -1,0 +1,1 @@
+find . -name "README.*" -type f -delete
