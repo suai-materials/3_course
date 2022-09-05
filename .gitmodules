@@ -13,3 +13,6 @@
 [submodule "csharp"]
 	path = csharp
 	url = https://github.com/suai-materials/csharp.git
+[submodule "testing"]
+	path = testing
+	url = https://github.com/suai-materials/testing.git
