@@ -16,3 +16,11 @@
 [submodule "testing"]
 	path = testing
 	url = https://github.com/suai-materials/testing.git
+
+
+[submodule "english"]
+	path = english
+	url = https://github.com/suai-materials/english.git
+[submodule "introduction_part_2"]
+	path = introduction_part_2
+	url = https://github.com/suai-materials/introduction-part-2.git
